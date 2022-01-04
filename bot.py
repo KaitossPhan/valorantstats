@@ -4,7 +4,7 @@ import valorantstats
 import secretvars
 
 ss = secretvars.secretvars()
-TOKEN = ..
+TOKEN = OTA4NjIyNTAxNTk1MjAxNTc2.YY4apQ.9rjPG1KUbJ4bxtTw9-jQwBUT49s
 GUILD = 765932359236452382
 client = discord.Client()
 bot = commands.Bot(command_prefix='!')
